@@ -1,1 +1,1 @@
- 
+Unsupervised Machine Learning repository covering clustering, dimensionality reduction, and pattern discovery techniques. Includes implementations of K-Means, Hierarchical Clustering, PCA, and more using Python and Scikit-learn with real-world datasets, visualizations, and beginner-friendly notebooks.
